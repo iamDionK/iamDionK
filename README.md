@@ -7,15 +7,15 @@ Currently building my stack in **Python** and **Video Production** to disrupt ho
 ---
 
 #### 🛠 Tech & Creative Stack
-* **Core:** Python, [Insert other language if applicable, e.g., JavaScript/Solidity]
-* **AI/Data:** [e.g., OpenCV, Pandas, OpenAI API]
+* **Core:** Python
+* **AI/Data:** OpenAI API
 * **Creative:** DaVinci Resolve/Premiere Pro, Screenwriting
 * **Interests:** DeFi, Generative AI, Comedy Writing
 
 ---
 
 #### 🚀 Current Deliverables & KPIs
-* 🔭 **Working on:** An automated video editing script / A crypto-tracking bot [Pick one relevant project].
+* 🔭 **Working on:** A crypto-tracking bot.
 * 🌱 **Learning:** Smart Contract development and AI-driven video synthesis.
 * ⚡ **Fun fact:** I write comedy skits—my code is clean, but my humor is spaghetti.
 
