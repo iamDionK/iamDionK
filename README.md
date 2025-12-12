@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**iamDionK/iamDionK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an emerging developer sitting at the intersection of **AI, Blockchain, and Digital Media**. I leverage technology to scale storytelling and creativity.
 
-Here are some ideas to get you started:
+Currently building my stack in **Python** and **Video Production** to disrupt how content is generated and consumed.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🛠 Tech & Creative Stack
+* **Core:** Python, [Insert other language if applicable, e.g., JavaScript/Solidity]
+* **AI/Data:** [e.g., OpenCV, Pandas, OpenAI API]
+* **Creative:** DaVinci Resolve/Premiere Pro, Screenwriting
+* **Interests:** DeFi, Generative AI, Comedy Writing
+
+---
+
+#### 🚀 Current Deliverables & KPIs
+* 🔭 **Working on:** An automated video editing script / A crypto-tracking bot [Pick one relevant project].
+* 🌱 **Learning:** Smart Contract development and AI-driven video synthesis.
+* ⚡ **Fun fact:** I write comedy skits—my code is clean, but my humor is spaghetti.
+
+---
+
+#### 🤝 Let's Connect
+[https://www.linkedin.com/in/dionkeaton/]
