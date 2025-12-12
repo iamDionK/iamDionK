@@ -36,4 +36,4 @@ Outside of code, I write and perform comedy. The goal is to merge both worlds:
 ### 🤝 Connect
 
 - LinkedIn: [https://www.linkedin.com/in/dionkeaton/]  
-- GitHub Projects: [https://github.com/yourusername](https://github.com/iamDionK)
+- GitHub Projects: [https://github.com/iamDionK]
